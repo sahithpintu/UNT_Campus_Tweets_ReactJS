@@ -1,0 +1,12 @@
+body{
+    --twitter-color : #00853E;
+    --twitter-background: #E5F2EB;
+  }
+  
+.userProfile{
+    display: flex;
+    height: 100vh;
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
