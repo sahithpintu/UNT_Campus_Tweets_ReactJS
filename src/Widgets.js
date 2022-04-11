@@ -14,7 +14,7 @@ function Widgets(props) {
         <div className="widgets">
             <div className="widgets__input">
                 <SearchIcon className="widgets__searchIcon"/>
-                <input placeholder="Search Posts" type="search" onChange={searchHandler}/>
+                <input placeholder="Search Tweets" type="search" onChange={searchHandler}/>
             </div>
         </div>
     )
